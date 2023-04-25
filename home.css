@@ -1,0 +1,26 @@
+body {
+  background-color: #F2F9E0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.rectangulo {
+  background-color: #E0E6F9;
+  padding: 300px;
+  margin: 180px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.links {
+  display: block;
+  text-decoration: none;
+  color: #000;
+}
+.letras{
+  font-size: 40px;
+}
